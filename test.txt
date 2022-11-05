@@ -1,5 +1,5 @@
 test
 
 new content
-edit by hot_fix
+edit by master
 
